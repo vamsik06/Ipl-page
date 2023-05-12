@@ -1,0 +1,17 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: brown
+}
+.container{
+
+    padding: 10px;
+    border-collapse: collapse;
+    text-align: center;
+    margin: 5px;
+}
+footer{
+background-color: aquamarine;
+height: 50px;
+padding: 10px;
+}
